@@ -1,0 +1,14 @@
+﻿<Window x:Class="Breakthrough.Info"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Info" Height="300" Width="300">
+    <Grid>
+        <TextBlock>
+            Choose size of the board from menu.
+            <LineBreak/>
+            <LineBreak/>
+    Read Breakthrough -rules on
+    <Hyperlink NavigateUri="CNN.COM" Click="Hyperlink_Click">Wikipedia</Hyperlink>.
+        </TextBlock>
+    </Grid>
+</Window>

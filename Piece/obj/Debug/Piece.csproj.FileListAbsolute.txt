@@ -1,0 +1,20 @@
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\bin\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\bin\Debug\Piece.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece_MarkupCompile.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.g.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.Properties.Resources.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.csproj.GenerateResource.Cache
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Piece\obj\Debug\Piece.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\bin\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\bin\Debug\Piece.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece_MarkupCompile.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.g.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.Properties.Resources.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.csproj.GenerateResource.Cache
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Piece\obj\Debug\Piece.pdb

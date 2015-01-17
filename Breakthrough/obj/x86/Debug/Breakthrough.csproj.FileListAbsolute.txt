@@ -1,0 +1,38 @@
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Breakthrough.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\MainWindow.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\App.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough_MarkupCompile.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.g.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.Properties.Resources.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.csproj.GenerateResource.Cache
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.exe
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Board.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Board.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.csprojResolveAssemblyReference.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\bin\Debug\Piece.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.AboutBox1.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Info.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\tietotekniikka\graafiset käyttöliittymät\omat tehtävät\Breakthrough\Breakthrough\obj\x86\Debug\Info.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.exe
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Breakthrough.exe
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Breakthrough.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Board.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Piece.dll
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Board.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\bin\Debug\Piece.pdb
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.csprojResolveAssemblyReference.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Info.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\MainWindow.baml
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Info.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\App.g.cs
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough_MarkupCompile.cache
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.g.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.AboutBox1.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.Properties.Resources.resources
+C:\Users\Elina Keränen\Desktop\tiedostot\pelialan jutut\Breakthrough\Breakthrough\obj\x86\Debug\Breakthrough.csproj.GenerateResource.Cache

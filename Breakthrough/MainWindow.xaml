@@ -1,0 +1,26 @@
+﻿<Window x:Class="Breakthrough.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Breakthrough" Height="374" Width="525" MinHeight="300" MinWidth="500" xmlns:my="clr-namespace:Board;assembly=Board">
+    <Grid>
+        <Grid>
+            <Menu Height="23" HorizontalAlignment="Stretch" Margin="0,0,0,0" Name="menu1" VerticalAlignment="Top" Width="Auto">
+                <MenuItem Header="_Choose size" >
+                    <MenuItem Name="little" Header="4x_4"  Click="MenuItem_Click"/>
+                    <MenuItem Name="basic" Header="6x_6" Click="MenuItem_Click"/>
+                    <MenuItem Name="big" Header="8x_8" Click="MenuItem_Click"/>
+                </MenuItem>
+                <MenuItem Header="_Help">
+                    <MenuItem Header="_About" Click="About_Click" />
+                    <MenuItem Header="I_nfo" Click="Info_Click"/>
+                </MenuItem>
+            </Menu>
+        </Grid>
+        <Grid Name="grid" Margin="0,25,0,0">
+            <TextBlock FontSize="18">Start new game by choosing board size from menu.
+                <LineBreak/>
+            Choose "Info" from the help menu for more information.</TextBlock>
+            <!--- board here-->
+        </Grid>
+    </Grid>
+</Window>
